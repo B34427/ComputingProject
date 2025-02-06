@@ -114,7 +114,7 @@
         <mxCell id="pyBMWA6m10mVQqwg_1T7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="qL52Xe9mibryE4UQHseE-31" target="pyBMWA6m10mVQqwg_1T7-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qL52Xe9mibryE4UQHseE-31" value="INPUT VLUES IN A TKINTER FORM" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="qL52Xe9mibryE4UQHseE-31" value="INPUTS VALUES IN A TKINTER FORM" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="500" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qL52Xe9mibryE4UQHseE-33" target="qL52Xe9mibryE4UQHseE-35" edge="1">
