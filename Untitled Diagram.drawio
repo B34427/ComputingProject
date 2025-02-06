@@ -40,6 +40,9 @@
         <mxCell id="qL52Xe9mibryE4UQHseE-9" value="NEW CLIENT" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="500" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pyBMWA6m10mVQqwg_1T7-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qL52Xe9mibryE4UQHseE-11" target="pyBMWA6m10mVQqwg_1T7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-11" value="STATISTICS" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="690" y="120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -102,6 +105,9 @@
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-35" value="STORE IN DB" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="500" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyBMWA6m10mVQqwg_1T7-1" value="STATISTICS" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="690" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
