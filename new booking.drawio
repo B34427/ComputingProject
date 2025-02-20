@@ -1,9 +1,111 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.15">
   <diagram name="Page-1" id="o6kT-y99XACARWOZ9DU1">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="380" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-2" value="New Booking&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="371" y="180" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="230" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="440" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-8" value="First name:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-9" value="Last name:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-10" value="Date:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-11" value="Slot:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-12" value="Additional note" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-14" value="Submit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="490" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-15" value="X" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="167.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-18" value="-" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZhmNxtyZzMr908kEcfsM-14" target="ZhmNxtyZzMr908kEcfsM-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="410" as="sourcePoint" />
+            <mxPoint x="630" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-20" value="Tkinter button" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="545" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="ZhmNxtyZzMr908kEcfsM-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="410" as="sourcePoint" />
+            <mxPoint x="690" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZhmNxtyZzMr908kEcfsM-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="410" as="sourcePoint" />
+            <mxPoint x="690" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-23" value="Tkinter entry boxes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="320" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="ZhmNxtyZzMr908kEcfsM-9" target="ZhmNxtyZzMr908kEcfsM-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="410" as="sourcePoint" />
+            <mxPoint x="160" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-25" value="Tkinter Label" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="385" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="410" as="sourcePoint" />
+            <mxPoint x="130" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-28" value="Dropdown list&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZhmNxtyZzMr908kEcfsM-5" target="ZhmNxtyZzMr908kEcfsM-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="410" as="sourcePoint" />
+            <mxPoint x="90" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhmNxtyZzMr908kEcfsM-31" value="Dropdown calendar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="435" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
