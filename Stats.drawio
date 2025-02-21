@@ -1,32 +1,68 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPad; CPU OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/133.0.6943.84 Mobile/15E148 Safari/604.1" version="26.0.15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.15">
   <diagram name="Page-1" id="mTLk7JrALbAII1nqvPS2">
-    <mxGraphModel dx="1446" dy="567" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="412" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ui6mhgjGIS9C5cT6wUwf-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-32" y="93" width="434" height="444" as="geometry" />
+        <mxCell id="Ui6mhgjGIS9C5cT6wUwf-2" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-32" y="95" width="434" height="444" as="geometry" />
         </mxCell>
-        <mxCell id="Ui6mhgjGIS9C5cT6wUwf-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="372" y="95" width="30" height="31" as="geometry" />
+        <mxCell id="Ui6mhgjGIS9C5cT6wUwf-3" value="X" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="372" y="95" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ui6mhgjGIS9C5cT6wUwf-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="342" y="96" width="30" height="30" as="geometry" />
+        <mxCell id="Ui6mhgjGIS9C5cT6wUwf-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="342" y="95" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ui6mhgjGIS9C5cT6wUwf-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312" y="96" width="30" height="30" as="geometry" />
+        <mxCell id="Ui6mhgjGIS9C5cT6wUwf-5" value="-" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="312" y="95" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ui6mhgjGIS9C5cT6wUwf-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-32" y="128" width="60" height="20" as="geometry" />
+        <mxCell id="Ui6mhgjGIS9C5cT6wUwf-11" value="By week" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-32" y="128" width="59" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="Ui6mhgjGIS9C5cT6wUwf-12" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="28" y="127" width="60" height="20" as="geometry" />
+        <mxCell id="Ui6mhgjGIS9C5cT6wUwf-12" value="By month" style="rounded=0;whiteSpace=wrap;html=1;direction=west;rotation=0;fillColor=light-dark(#6e6e6e, #1a1a1a);fontColor=light-dark(#050505, #c1c1c1);strokeColor=light-dark(#464444, #959595);labelBorderColor=none;" parent="1" vertex="1">
+          <mxGeometry x="28" y="128" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ui6mhgjGIS9C5cT6wUwf-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="88" y="128" width="60" height="19" as="geometry" />
+        <mxCell id="Ui6mhgjGIS9C5cT6wUwf-13" value="By year" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=light-dark(#6e6e6e, #202020);strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="88" y="128" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ui6mhgjGIS9C5cT6wUwf-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ui6mhgjGIS9C5cT6wUwf-14" value="By day" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=light-dark(#6e6e6e, #202020);strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="148" y="128" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Gt7Cfuqo7UWijV9A0oET-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="349.5" y="102.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Gt7Cfuqo7UWijV9A0oET-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="31.5" y="197" width="318" height="318" as="geometry" />
+        </mxCell>
+        <mxCell id="Gt7Cfuqo7UWijV9A0oET-3" value="Weekly Appointments" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="83" y="158" width="204" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="Gt7Cfuqo7UWijV9A0oET-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="58" y="290" width="68" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="Gt7Cfuqo7UWijV9A0oET-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="153" y="353" width="71" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="Gt7Cfuqo7UWijV9A0oET-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="252" y="226" width="90" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="Gt7Cfuqo7UWijV9A0oET-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Gt7Cfuqo7UWijV9A0oET-7" target="Gt7Cfuqo7UWijV9A0oET-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="360" as="sourcePoint" />
+            <mxPoint x="449" y="331" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gt7Cfuqo7UWijV9A0oET-9" value="Bar Chart&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="419" y="316" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gt7Cfuqo7UWijV9A0oET-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ui6mhgjGIS9C5cT6wUwf-11" target="Gt7Cfuqo7UWijV9A0oET-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="360" as="sourcePoint" />
+            <mxPoint x="-87" y="243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gt7Cfuqo7UWijV9A0oET-11" value="Tkinter tabs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-117" y="228" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
