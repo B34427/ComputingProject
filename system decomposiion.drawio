@@ -1,9 +1,34 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.1.0">
   <diagram name="Page-1" id="luAzEBvA0iZ-ipfoyPJM">
-    <mxGraphModel>
+    <mxGraphModel dx="1182" dy="1942" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qzwiFjm4VJmL2EU5l0Rv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="qzwiFjm4VJmL2EU5l0Rv-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="226" y="-7" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qzwiFjm4VJmL2EU5l0Rv-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="qzwiFjm4VJmL2EU5l0Rv-1" target="qzwiFjm4VJmL2EU5l0Rv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qzwiFjm4VJmL2EU5l0Rv-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="qzwiFjm4VJmL2EU5l0Rv-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="224" y="-6" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qzwiFjm4VJmL2EU5l0Rv-1" value="LacedbyTadii" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="166" y="-85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qzwiFjm4VJmL2EU5l0Rv-9" value="Login" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="41" width="116" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="qzwiFjm4VJmL2EU5l0Rv-11" value="Admin Homepage" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="168" y="44" width="116" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="qzwiFjm4VJmL2EU5l0Rv-13" value="Client Homepage" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="366" y="41" width="116" height="52" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
