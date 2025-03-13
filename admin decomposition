@@ -1,11 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0">
   <diagram name="Page-1" id="9An-Dm4P1PhMl5eLzi5M">
-    <mxGraphModel dx="2253" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qL52Xe9mibryE4UQHseE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="qL52Xe9mibryE4UQHseE-1" target="qL52Xe9mibryE4UQHseE-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qL52Xe9mibryE4UQHseE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="70" as="sourcePoint" />
+            <mxPoint x="200" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="qL52Xe9mibryE4UQHseE-1" target="qL52Xe9mibryE4UQHseE-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -14,16 +17,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="qL52Xe9mibryE4UQHseE-1" target="qL52Xe9mibryE4UQHseE-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="70" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="qL52Xe9mibryE4UQHseE-1" target="qL52Xe9mibryE4UQHseE-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fY760DKZ7JPup0VXKefZ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="70" as="sourcePoint" />
-            <mxPoint x="880" y="150" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-1" value="Admin Homepage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="390" y="40" width="120" height="60" as="geometry" />
@@ -32,13 +33,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-3" value="New Booking&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="110" y="130" width="100" height="30" as="geometry" />
+          <mxGeometry x="140" y="130" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qL52Xe9mibryE4UQHseE-5" target="qL52Xe9mibryE4UQHseE-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-5" value="Calendar" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="270" y="150" width="100" height="30" as="geometry" />
+          <mxGeometry x="270" y="110" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qL52Xe9mibryE4UQHseE-9" target="qL52Xe9mibryE4UQHseE-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -46,14 +47,11 @@
         <mxCell id="qL52Xe9mibryE4UQHseE-9" value="New Client" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="530" y="150" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qL52Xe9mibryE4UQHseE-11" value="Statistics" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="670" y="150" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qL52Xe9mibryE4UQHseE-13" target="qL52Xe9mibryE4UQHseE-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-13" value="Todays&#39; Bookings" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="400" y="210" width="100" height="30" as="geometry" />
+          <mxGeometry x="400" y="140" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qL52Xe9mibryE4UQHseE-15" target="qL52Xe9mibryE4UQHseE-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -62,37 +60,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-15" value="Input values in a tkinter form" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="110" y="230" width="100" height="40" as="geometry" />
+          <mxGeometry x="140" y="230" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qL52Xe9mibryE4UQHseE-17" target="qL52Xe9mibryE4UQHseE-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-17" value="Validate and check for availability" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="110" y="320" width="100" height="50" as="geometry" />
+          <mxGeometry x="140" y="320" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-19" value="Store in database" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="110" y="410" width="100" height="30" as="geometry" />
+          <mxGeometry x="140" y="410" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-21" value="Details to be inputted:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- First Name&lt;/div&gt;&lt;div&gt;- Last Name&lt;/div&gt;&lt;div&gt;- Date of appointment&lt;/div&gt;&lt;div&gt;- Slot/time&lt;/div&gt;&lt;div&gt;- Additional note&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="180" width="120" height="140" as="geometry" />
+          <mxGeometry y="180" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qL52Xe9mibryE4UQHseE-23" target="qL52Xe9mibryE4UQHseE-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-23" value="Checks database for appointments" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="270" y="250" width="100" height="40" as="geometry" />
+          <mxGeometry x="270" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-25" value="Displays calendar in a tkinter window" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="270" y="350" width="100" height="50" as="geometry" />
+          <mxGeometry x="270" y="270" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qL52Xe9mibryE4UQHseE-27" target="qL52Xe9mibryE4UQHseE-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-27" value="Check database for that day&#39;s appointments" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="400" y="300" width="100" height="50" as="geometry" />
+          <mxGeometry x="400" y="220" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-29" value="Display the bookings in a table" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="400" y="410" width="100" height="40" as="geometry" />
+          <mxGeometry x="400" y="310" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qL52Xe9mibryE4UQHseE-31" target="qL52Xe9mibryE4UQHseE-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -101,34 +99,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-31" value="Input value in a tkinter form" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="530" y="260" width="100" height="30" as="geometry" />
+          <mxGeometry x="530" y="250" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qL52Xe9mibryE4UQHseE-33" target="qL52Xe9mibryE4UQHseE-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-33" value="Validate details" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="530" y="360" width="100" height="30" as="geometry" />
+          <mxGeometry x="530" y="320" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qL52Xe9mibryE4UQHseE-35" value="Store in database" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="530" y="450" width="100" height="30" as="geometry" />
+          <mxGeometry x="530" y="390" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fY760DKZ7JPup0VXKefZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="fY760DKZ7JPup0VXKefZ-1" target="fY760DKZ7JPup0VXKefZ-3">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fY760DKZ7JPup0VXKefZ-1" value="Manage Bookings" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="150" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fY760DKZ7JPup0VXKefZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="fY760DKZ7JPup0VXKefZ-3" target="fY760DKZ7JPup0VXKefZ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fY760DKZ7JPup0VXKefZ-3" value="Search the date and slot of appointment" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="230" width="100" height="50" as="geometry" />
+          <mxGeometry x="780" y="180" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fY760DKZ7JPup0VXKefZ-5" value="Option to edit or delete booking as buttons" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="330" width="100" height="50" as="geometry" />
+          <mxGeometry x="780" y="270" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fY760DKZ7JPup0VXKefZ-7" value="Details to be inputted:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- First Name&lt;/div&gt;&lt;div&gt;- Last Name&lt;/div&gt;&lt;div&gt;- Contact Number&lt;/div&gt;&lt;div&gt;- Email&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="680" y="360" width="120" height="150" as="geometry" />
+          <mxGeometry x="650" y="290" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fY760DKZ7JPup0VXKefZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qL52Xe9mibryE4UQHseE-1" target="qL52Xe9mibryE4UQHseE-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="70" as="sourcePoint" />
+            <mxPoint x="827" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qL52Xe9mibryE4UQHseE-11" value="Statistics" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="640" y="110" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fY760DKZ7JPup0VXKefZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;exitX=0.967;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qL52Xe9mibryE4UQHseE-1" target="fY760DKZ7JPup0VXKefZ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="506" y="64" as="sourcePoint" />
+            <mxPoint x="827" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fY760DKZ7JPup0VXKefZ-1" value="Manage Bookings" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="110" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
